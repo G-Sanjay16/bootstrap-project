@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Spice&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway", sana-serif !important;
+    color: white; 
+}
+.navbar{
+    
+    background-image: linear-gradient(67.5deg, #fb8909 0%, hwb(32 4% 2%) 6%,#fb8909 6%, rgb(251,137,9) 57%,rgb(251,137,9) 57%, rgb(251,137,9) 58%,rgb(251,137,9) 58%, rgb(251,137,9) 79%,rgb(251,137,9) 79%, rgb(251,137,9) 93%,rgb(251,137,9) 93%, rgb(251,137,9) 95%,rgb(251,137,9) 95%, rgb(251,137,9) 100%),linear-gradient(90deg, rgb(251,137,9) 0%, rgb(251,137,9) 6%,rgb(251,137,9) 6%, rgb(251,137,9) 57%,rgb(251,137,9) 57%, rgb(251,137,9) 58%,rgb(251,137,9) 58%, rgb(251,137,9) 79%,rgb(251,137,9) 79%, rgb(251,137,9) 93%,rgb(251,137,9) 93%, rgb(251,137,9) 95%,rgb(251,137,9) 95%, rgb(251,137,9) 100%),linear-gradient(135deg, rgb(251,137,9) 0%, rgb(251,137,9) 6%,rgb(251,137,9) 6%, rgb(251,137,9) 57%,rgb(251,137,9) 57%, rgb(251,137,9) 58%,rgb(251,137,9) 58%, rgb(251,137,9) 79%,rgb(251,137,9) 79%, rgb(251,137,9) 93%,rgb(251,137,9) 93%, rgb(251,137,9) 95%,rgb(251,137,9) 95%, rgb(251,137,9) 100%),linear-gradient(0deg, rgb(251,137,9) 0%, rgb(251,137,9) 6%,rgb(251,137,9) 6%, rgb(251,137,9) 57%,rgb(251,137,9) 57%, rgb(251,137,9) 58%,rgb(251,137,9) 58%, rgb(251,137,9) 79%,rgb(251,137,9) 79%, rgb(251,137,9) 93%,rgb(251,137,9) 93%, rgb(251,137,9) 95%,rgb(251,137,9) 95%, rgb(251,137,9) 100%),linear-gradient(90deg, rgb(251,137,9),rgb(251,137,9)); background-blend-mode:overlay,overlay,overlay,overlay,normal;
+}
+.nav-link{
+    color:white;
+    font-weight:bold;
+font-size: 1rem;
+}
+.nav-link:hover{
+   
+    color: white !important;
+}
+.btn-primary:hover{
+    background-color: white !important;
+    color:black !important;
+}
+.hero-section{
+    color: white;
+    background-color: black;
+}
+.tts{
+    color:rgb(255,168,0) ;
+}
+.txt{ color:rgb(255,168,0);}
+.btn-light:hover{
+   color:black !important;
+   background-color:rgb(255,168,0) !important;
+   border: none;
+}
+.about-section{
+    background-color:rgb(255,168,0);
+    }
+.para{
+    color: white;
+}
+.menu-section{
+    background-color: black;
+}
+.card-header{
+    background-color: #fb8909 !important;
+    color: black;
+}
+.card-body2{
+    background-color:black !important;
+}
