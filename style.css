@@ -45,9 +45,30 @@ font-size: 1rem;
     background-color: black;
 }
 .card-header{
-    background-color: #fb8909 !important;
+    background-color:#fb8909 !important;
     color: black;
 }
 .card-body2{
     background-color:black !important;
 }
+.add-to-cart {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+  }
+  .btn{
+    position: absolute;
+   tab-size: 10px; bottom: 10px; 
+    right: 20px;
+    padding: 8px 16px;
+  }
+ .card-text {
+    padding-bottom: 50px;
+ }
+ .price{
+    font-family: sans-serif;
+  font-size: large;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+ }
